@@ -26,7 +26,7 @@ https://github.com/aadityaa-dava/UMBC-DATA606-Capstone
 https://www.linkedin.com/in/aadityaa-dava-688908308
 
 ### PowerPoint Presentation File
-Add presentation link here
+docs/Final Presentation.pdf
 
 ### YouTube Presentation Video
 Add YouTube link here
