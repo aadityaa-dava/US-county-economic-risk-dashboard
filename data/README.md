@@ -82,7 +82,7 @@ The datasets were:
 
 U.S. Census Bureau – American Community Survey (ACS) 5-Year Estimates
 
-🔗 https://data.census.gov/
+🔗 [U.S. Census Bureau ACS Data](https://data.census.gov/)
 
 ---
 
