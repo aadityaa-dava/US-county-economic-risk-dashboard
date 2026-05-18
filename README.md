@@ -228,17 +228,6 @@ streamlit run app/app.py
 
 ---
 
-# Documentation
-
-Additional project documentation is available in the `docs/` folder, including:
-
-- Final Presentation
-- Project Report
-- Resume
-- Supporting materials
-
----
-
 # Future Improvements
 
 Potential future enhancements include:
