@@ -38,7 +38,6 @@ The objectives of this project are to:
 ### Data Visualization
 
 * Plotly
-* Matplotlib
 * Streamlit
 
 ### Modeling & Analytics
